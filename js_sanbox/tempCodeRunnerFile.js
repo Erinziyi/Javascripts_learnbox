@@ -1,11 +1,9 @@
-//PRIMITIVE
+let val;
 
-//String
-const name = 'Erin';
+// Number to string
+val =5;
 
 
-//Number
-const age =45;
+// Output
 
-console.log(typeof age);
-
+console.log(val);
